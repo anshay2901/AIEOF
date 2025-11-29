@@ -1,8 +1,31 @@
 # AIEOF
-# ⚡ AI Industrial Energy Forecaster
+# ⚡ AI Industrial Energy Forecaster  
 Viksit Bharat 2047 – Environmental Sustainability Challenge (Tech-Driven Track)
 
-This project builds an AI-powered system to forecast India's industrial electricity demand, detect anomalies, analyze hourly peaks, and offer load optimization suggestions using Prophet, synthetic MoSPI-aligned datasets, and a full Streamlit dashboard.
+Live Demo 👉 **https://aieof-toi.streamlit.app/**
+
+This project builds an AI-powered system to forecast India's industrial electricity demand, detect anomalies, analyze hourly peaks, and offer load optimization suggestions using Prophet, synthetic MoSPI-aligned datasets, and a modern Streamlit dashboard.
+
+---
+
+## 🚀 Features
+- Daily & hourly electricity forecasting  
+- Peak load forecasting (next 30 days)  
+- **Model accuracy**  
+  - MAE ≈ **107,333 MWh**  
+  - RMSE ≈ **118,550 MWh**  
+  - MAPE ≈ **5.87%**  
+- Anomaly detection using Isolation Forest  
+- Hourly heatmap  
+- Peak-shaving optimization  
+- CSV export panel  
+- Fully interactive Streamlit dashboard  
+
+---
+
+## 📺 Live Dashboard  
+**https://aieof-toi.streamlit.app/**  
+Hosted for free on Streamlit Cloud.
 
 ---
 
